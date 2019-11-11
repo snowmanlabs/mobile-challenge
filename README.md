@@ -36,7 +36,7 @@
 <p align="center">
     <br/>
     <a href="https://invis.io/84URZA9RTQF">
-      <img src="assets/screenshot.png" alt="Logo" width="800" height="569"/>
+      <img src="assets/screenshot.png" alt="Logo" width="375" height="667"/>
     </a>
     <br/>
     <br/>
