@@ -14,7 +14,7 @@
     ·
     <a href="https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge">Questions?</a>
     ·
-    <a href="https://invis.io/HXUH9OCD476">Design</a>
+    <a href="https://invis.io/84URZA9RTQF">Design</a>
   </p>
 </p>
 
@@ -35,12 +35,12 @@
 
 <p align="center">
     <br/>
-    <a href="https://invis.io/HXUH9OCD476">
+    <a href="https://invis.io/84URZA9RTQF">
       <img src="assets/screenshot.png" alt="Logo" width="800" height="569"/>
     </a>
     <br/>
     <br/>
-    <a href="https://invis.io/HXUH9OCD476">
+    <a href="https://invis.io/84URZA9RTQF">
         Design »
     </a>
     <br/>
