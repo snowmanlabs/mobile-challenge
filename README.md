@@ -78,6 +78,7 @@ A avaliação vai seguir os seguintes critérios
 * :watch: Full operation.
 * :factory: Robustez.
 * :iphone: Atenção aos detalhes
+* :zap: Proatividade
 
 Registre tudo em seus commits e evite fazer commits muito grandes e com muitas alterações.
 
