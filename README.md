@@ -23,7 +23,7 @@
 <p align="center">
     <br/>
     <a href="https://invis.io/STYNCV5G5D4">
-      <img src="assets/screenshot.png" alt="Logo" width="375" height="667"/>
+      <img src="assets/splash.png" alt="Logo" width="375" height="667"/>
     </a>
     <br/>
     <br/>
@@ -39,7 +39,7 @@ Nós queremos te conhecer melhor, então não tenha medo de falhar, isto não é
 
 :snowman: Seu time está desenvolvendo um app e precisa implementar uma nova feature, um FAQ (Frequently Asked Questions) e você foi incubido de desenvolver essa feature.
 
-A lista de Perguntas e Respostas você encontra aqui.
+A lista de Perguntas e Respostas você encontra [aqui](assets/questions.txt).
 
 ## Non-functional specs
 
