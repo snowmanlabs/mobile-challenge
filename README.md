@@ -4,123 +4,88 @@
     <img src="assets/logo.png" alt="Logo" width="191" height="131">
   </a>
 
-  <h3 align="center">Mobile Challenge :trophy:</h3>
+  <h3 align="center">Desafio Mobile :trophy:</h3>
 
   <p align="center">
-    :suspect: Are you prepared? :godmode:
+    :suspect: Você está prepardo? :godmode:
     <br />
     <br />
     <a href="https://www.snowmanlabs.com.br/snow-team/">SnowTeam</a>
     ·
     <a href="https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge">Questions?</a>
     ·
-    <a href="https://invis.io/84URZA9RTQF">Design</a>
+    <a href="https://invis.io/STYNCV5G5D4">Design</a>
   </p>
 </p>
 
-## Table of Contents
-- [Challenge Description](#challenge-description)
-  - [Goal](#goal)
-  - [Non-functional specs](#non-functional-specs)
-  - [User Stories](#user-stories)
-      - [:lock: As a anonymous user](#lock-as-a-anonymous-user)
-      - [:unlock: As a logged in User](#unlock-as-a-logged-in-user)
-    - [Business Rules](#business-rules)
-  - [Deliverables](#deliverables)
-  - [Evaluation](#evaluation)
-  - [Bonus Deliverable](#bonus-deliverable)
-  - [Questions?](#questions)
-
-# Challenge Description
+# Descrição do desafio
 
 <p align="center">
     <br/>
-    <a href="https://invis.io/84URZA9RTQF">
+    <a href="https://invis.io/STYNCV5G5D4">
       <img src="assets/screenshot.png" alt="Logo" width="375" height="667"/>
     </a>
     <br/>
     <br/>
-    <a href="https://invis.io/84URZA9RTQF">
+    <a href="https://invis.io/STYNCV5G5D4">
         Design »
     </a>
     <br/>
 </p>
 
-We want to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck! :smile:
+Nós queremos te conhecer melhor, então não tenha medo de falhar, isto não é sobre a maneira certa ou errada de fazer. Apenas dê o seu melhor. Boa sorte! :smile:
 
-## Goal
+## Objetivo
 
-:snowman: Your team is developing an application for users to create and explore tourist spots on a map. Your task is to create a Web application to consume and register this information.
+:snowman: Seu time está desenvolvendo um app e precisa implementar uma nova feature, um FAQ (Frequently Asked Questions) e você foi incubido de desenvolver essa feature.
 
+A lista de Perguntas e Respostas você encontra aqui.
 
 ## Non-functional specs
 
-* You must choose between Android, iOS or Flutter.
-* You may choose to use a framework.
-* You may use any piece of technology you think is necessary or cool.
-* It must be built in **components**.
-* You must use **Firebase** as backend.
-* The application must be easy to setup and deploy. :children_crossing:
-* Do your best.
+* Você deve escolher entre Android, iOS ou Flutter (De acordo com a vaga para qual você está aplicando).
+* Você pode usar qualquer tecnologia que achar necessária ou legal.
+* Os dados devem ser consumidos de um banco de dados local.
+* Utilizar Firebase ou qualquer solução backend é opcional e um plus
+* O app deve ser fácil para setup e deploy. :children_crossing:
+* O app deve ter uma Splash Screen, uma tela com lista de perguntas/respostas e uma tela para criar nova pergunta/resposta
+* Dê o seu melhor.
 
 
 ## User Stories
 
-#### :lock: As a anonymous user
-* I want to sign up using my **Facebook** account.
-* I want to sign in using my **Facebook** account.
-#### :unlock: As a logged in User
-* I want to see a list of tourist spots in a 5 km radius from a given location.
-* I want to search for tourist spots by name.
-* I want to register a tourist spot (picture, name, geographical location and category).
-* I want to comment about a tourist spot.
-* I want to see comments about a tourist spot.
-* I want to add pictures to a tourist spot.
-* I want to remove pictures I added to a tourist spot.
-* I want to favorite a tourist spot.
-* I want to see my favorites tourist spots.
-* I want to remove a tourist spot from my favorites.
-* I want to upvote a tourist spot.
-* I want to see the tourist spots I registered.
-* I want to create new categories.
+* Como usuário quero visualizar a lista de perguntas/respostas (FAQ).
+* Como usuário quero clicar em uma pergunta e quero que a resposta seja exibida.
+* Como usuário quero poder pesquisar uma pergunta/resposta.
+* Como usuário quero poder criar uma nova pergunta/resposta.
+* Como usuário quero adicionar uma cor a minha pergunta/resposta.
 
 
-### Business Rules
+## Entregáveis
 
-* Anonymous users can only see things.
-* Initial Categories are "Park", "Museum", "Theater", "Monument"
+* O código fonte de um repositório público.
+* Uma demo build.
+* Instruções sobre como rodar o ambiente de desenvolvimento.
+* Instruções sobre deploy.
 
+## Avaliação
 
+A avaliação vai seguir os seguintes critérios
 
-## Deliverables
-
-* The source code in a public git repository.
-* A demo build.
-* Instructions how to run the development environment.
-* Instructions how to deploy.
-
-
-## Evaluation
-
-The evaluation will follow the criteria below.
-
-* :dart: Good practices.
-* :wrench: Code maintainability.
+* :dart: Boas práticas.
+* :wrench: Manutenibilidade do código.
 * :rocket: Performance.
 * :watch: Full operation.
-* :factory: Robustness.
+* :factory: Robustez.
+* :iphone: Atenção aos detalhes
 
-This is a huge scope for sure, we are also evaluating.
+Registre tudo em seus commits e evite fazer commits muito grandes e com muitas alterações.
 
-* Your Perseverance.
-* Your Stamina.
-
-At your interview we'll talk about **Decision making and your reasons behind your choices**.
 
 ## Bonus Deliverable
 
-Beyond your hard skills we are also interested on how you think, the way your code evolves and grows until it's done. So if you are feeling like a [awesome developer streamer](https://github.com/bnb/awesome-developer-streams) :blush: :tv:, we would like to see a video of your development process. It would allow us to better understand you and give you a more complete feedback.
+Além de suas habilidades, também estamos interessados em como você pensa, a maneira como seu código evolui e cresce até que esteja pronto. Portanto, se você está se sentindo um [awesome developer streamer](https://github.com/bnb/awesome-developer-streams) :blush: :tv:, gostaríamos de ver um vídeo do seu processo de desenvolvimento. Isso nos permitiria entendê-lo melhor e dar-lhe um feedback mais completo.
 
-## Questions?
+## Dúvidas?
 
-If you have some questions about this challenge, you can open a new topic or search for your question in the [Dev Challenge forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge). :love_letter:
+Se você tiver alguma dúvida sobre este desafio, você pode abrir um novo tópico ou pesquisar sua pergunta no [Dev Challenge forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge). :love_letter:
